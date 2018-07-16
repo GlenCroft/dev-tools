@@ -20,7 +20,7 @@
     // you'll need to change this to an absolute path on your computer
     "editor.renderWhitespace": "all",
 
-    "vscode_custom_css.imports": ["file://C:/users/croftg/.vscodestyles.css"],
+    "vscode_custom_css.imports": ["file:///C:/users/croftg/.vscodestyles.css"],
 
     "git.autofetch": true,
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
